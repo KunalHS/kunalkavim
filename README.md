@@ -17,6 +17,13 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 git clone https://github.com/KunalHS/kunalkavim ~/.config/nvim
 ```
 
+### Optional Installations
+```shell
+# Nerd Font
+brew tap homebrew/cask-fonts
+brew install --cask font-jetbrains-mono-nerd-font
+```
+
 #### Start Neovim
 
 ```shell
