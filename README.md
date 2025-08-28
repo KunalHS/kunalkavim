@@ -17,11 +17,17 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 git clone https://github.com/KunalHS/kunalkavim ~/.config/nvim
 ```
 
-### Optional Installations
+### Extra Installations
 ```shell
 # Nerd Font
 brew tap homebrew/cask-fonts
 brew install --cask font-jetbrains-mono-nerd-font
+# fzf
+brew install fzf
+# ripgrep
+brew install ripgrep
+# fd
+brew install fd
 ```
 
 #### Start Neovim
